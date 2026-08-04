@@ -1,0 +1,1 @@
+scp "C:\FULL\PATH\TO\file" "xoxothefrozenfox@192.168.2.175:/FULL/PATH/file"
